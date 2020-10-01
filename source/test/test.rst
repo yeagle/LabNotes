@@ -50,3 +50,21 @@ and what about python code:
 
   if __name__ == "__main__":
     aFunc()
+
+and unspecified code:
+
+.. code-block:: none
+  
+  no specific code
+
+.. centered:: Other things
+
+An important information:
+
+.. note::
+
+  Note this, as this is very important
+
+.. warning::
+
+  This is a warning
